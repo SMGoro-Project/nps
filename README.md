@@ -12,12 +12,10 @@
 # 交流群
 聊天灌水QQ群：619833483
 
-# 特价云服务器  
-国内BGP，游戏开服，2核 2G 15M上行 25元/月，[专属连接，首页5折](https://www.rainyun.com/MjY0MzY1_)
+# [特价云服务器](https://store.imc.re/
 
   
-# 捐赠
-![image](image/new/payCode.png)
+# [捐赠](https://l.imc.re/sponsor)
 
 
 
